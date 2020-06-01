@@ -13,8 +13,8 @@ header {
 h1 {
 	font-size: 30px;
 	font-family: 'Chelsea Market', cursive; 
-  padding: 10px;
-  text-shadow: 2px 2px #ffffff;
+  	padding: 10px;
+  	text-shadow: 2px 2px #ffffff;
 }
 
 h2 {
@@ -25,7 +25,7 @@ h2 {
 
 header h2 {
 	color: #ffffff;
-  padding: 5px;
+ 	 padding: 5px;
 }
 
 p {
@@ -61,14 +61,14 @@ footer {
 form p {
 	display: inline;
 	margin: 5px;
-  padding: 3px;
+  	padding: 3px;
 }
 
 /* styling the input fields */
 input[type="text"], input[type="submit"] {
 	box-shadow: 3px 3px 0 0 #e4572e; 
 	padding: 5px;
-  margin: 5px;
-  width: 10%;
+ 	margin: 5px;
+  	width: 10%;
 }
 
